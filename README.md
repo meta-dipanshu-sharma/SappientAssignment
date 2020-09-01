@@ -1,7 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-First build the node modules and package-lock.json by running
---> cd .\sapient-assignment\
+First build the node modules and package-lock.json by running<br />
 --> npm install
 
 Then run any of below two commands:-
